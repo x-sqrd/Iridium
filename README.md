@@ -1,7 +1,10 @@
 # Iridium
 MPNN Madness.
 
+## Tellerium Phase
 
-### NOTE: This is COMPLETELY unfinished for now, and is currently under development under the [Tellerium](https://github.com/x-sqrd/Tellerium/) Project.
+MPNN Binary Classifier for Conductivity of Materials
 
-As of writing Tellerium is private. Iridium will come out sometime in the next few weeks.
+## Iridium Phase
+
+Predicting Properties of Materials based off [this](https://datadryad.org/stash/dataset/doi:10.5061/dryad.gn001) Database.
